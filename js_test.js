@@ -14,3 +14,10 @@ if (n == s) {
 if (n === s) {
  alert('Переменные идентичны');
 }
+
+
+
+function test() {
+ myVar = 'Hello, World';
+ console.log(myVar);
+}
